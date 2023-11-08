@@ -1,5 +1,4 @@
 # Project-Discussion 🚀
-
 Welcome to Project-Discussion, a collaborative platform for brainstorming, planning, and discussing exciting projects. 🤝
 
 ## About Us 💡
